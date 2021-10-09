@@ -5,13 +5,11 @@ date:   2021-10-10 3:15:00
 categories: posts
 ---
 
-##Welcome to my development blog
+## Welcome to my development blog
 
 I will be sharing ideas and thoughts about my projects and document my work.
-Each dev project exposes to new challenges and takeaways. 
-
+Each dev project has it's story, exposure to new challenges and takeaways. 
 So, Bookmark or subscribe to stay updated <3
-<br>
 
 
 This year I have been experinting *a lot* with blogging platforms, starting from Blogger, Wordpress to Ghost, but all have their own pros and cons, Blogger is free, quite user friendly but SEO and it's layout breaks. :( and for a tech savy like me, blogger... NAAH.
