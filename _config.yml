@@ -1,0 +1,19 @@
+name: Mayukh 
+description: ideas, tech and vision
+meta_description: "development and tech blog of Mayukh"
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl: /blog
+domain_name: ""
+google_analytics: "UA-XXXXXXXX-X"
+plugins: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url: ""
+author: "Your Name"
+
+# Disqus config
+disqus-shortname: ""
