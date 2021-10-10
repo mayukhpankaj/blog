@@ -4,11 +4,9 @@ title:  "Hello World"
 date:   2021-10-10 3:15:00
 categories: posts
 ---
-![image](https://user-images.githubusercontent.com/40158577/136686880-d2bd8f8d-8cdd-4304-99d1-64734f1d2050.png)
-
-
-
 Hi Welcome to my development blog ! 💻
+
+![image](https://user-images.githubusercontent.com/40158577/136686880-d2bd8f8d-8cdd-4304-99d1-64734f1d2050.png)
 
 I will be sharing my ideas, thoughts and document my work here.
 Each development project has it's own story, exposure to new challenges and takeaways. these things fade away with time so it's agood idea to document things, Thanx to mama who gave this idea.<br>
@@ -23,6 +21,4 @@ then comes Ghost, it's one of the best blogging platform, loved the features and
 
 So, here it is!  A Jekyll based Casper theme blog served from Github pages. Markdown made right from terminal.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll.
-
-[jekyll]:    http://jekyllrb.com/docs
+Thank you for reading !
