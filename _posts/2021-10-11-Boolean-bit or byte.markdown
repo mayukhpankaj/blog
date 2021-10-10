@@ -9,7 +9,7 @@ Yesteday I stumbled on a question, Do you know how much memory a boolean variabl
 1 bit right ? cause boolean is just about the vaule is 1 or 0, true or false !
 but actually it takes 1 byte. 
 
-{% highligh c++ %}
+{% highlight C++ %}
 int main(){
 
 cout<<sizeof(bool);
