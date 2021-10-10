@@ -4,11 +4,14 @@ title:  "Hello World"
 date:   2021-10-10 3:15:00
 categories: posts
 ---
+![image](https://user-images.githubusercontent.com/40158577/136686880-d2bd8f8d-8cdd-4304-99d1-64734f1d2050.png)
 
-Hi Welcome to my development blog ! :computer:
+
+
+Hi Welcome to my development blog ! 💻
 
 I will be sharing my ideas, thoughts and document my work here.
-Each development project has it's own story, exposure to new challenges and takeaways. these things fade away with time so it's agood idea to document things, Thanx to mama who gave this idea.
+Each development project has it's own story, exposure to new challenges and takeaways. these things fade away with time so it's agood idea to document things, Thanx to mama who gave this idea.<br>
 And it wont be just about tech and code, some meme and personal stuffs X)
 
 So, Bookmark or subscribe to stay updated <3
