@@ -33,13 +33,13 @@ request.json['name'] , request.json['email'] , request.json['password'] gives th
 
 Working With POSTMAN , 
 
-https://user-images.githubusercontent.com/40158577/137016169-4d88f233-1410-4fa4-b94b-d44c19a415c1.mp4
+![Demo vide0](https://user-images.githubusercontent.com/40158577/137016169-4d88f233-1410-4fa4-b94b-d44c19a415c1.mp4)
 
 
 
-idk why it didnt worked out on codr platform :(
+idk why it didnt worked out on codr platform :( , most probably it was not able to read from port or body response 
 
-[Gist link](https://user-images.githubusercontent.com/40158577/137016169-4d88f233-1410-4fa4-b94b-d44c19a415c1.mp4)
+[Gist link](https://gist.github.com/mayukhpankaj/f2b2f2ee9cc675ca3b5c9d8f47121b97)
 
 <script src="https://gist.github.com/mayukhpankaj/f2b2f2ee9cc675ca3b5c9d8f47121b97.js"></script> 
 
