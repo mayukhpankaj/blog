@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Users API"
-date:   2021-10-10 3:15:00
+date:   2021-10-12 3:15:00
 categories: Web Development
 ---
 
@@ -31,15 +31,13 @@ request.json['name'] , request.json['email'] , request.json['password'] gives th
 
 
 
-Working With POSTMAN , 
+Working With Postman , 
 
 <video width="500" height="300" controls>
 <source src="https://user-images.githubusercontent.com/40158577/137016169-4d88f233-1410-4fa4-b94b-d44c19a415c1.mp4" type="video/mp4">
 </video>
 
-
-
-idk why it didnt worked out on codr platform :( , most probably it was not able to read from port or body response 
+I think i made a mistake while testing on platform , port or body response mismatched 😥
 
 [Gist link](https://gist.github.com/mayukhpankaj/f2b2f2ee9cc675ca3b5c9d8f47121b97)
 
