@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Users API"
+date:   2021-10-10 3:15:00
+categories: Web Development
+---
+
+The task was to make API for 
+ - *sign_up* to add users ( with password validation)
+ - *sign_in* check existing user
+ - *clean*  delete all users
+
+I used flask and python, 
+
+create three routes with POST method
+ - /api/sign_up
+ - /api/sign_in
+ - /api/clean
+
+for storing users, I used a list of dictionaries. 
+[ {},
+  {}
+]
+
+request.json['name'] , request.json['email'] , request.json['password'] gives the required variable from JSON request.
+
+<strong> now we can use them to vaildate password , check existing user and add the new user to list. </strong>
+ - regex expression to validate password
+ - iterated over list to check for same email ( if different append to the list)
+ - if email & password exists sign in success.
+
+
+
+Working With POSTMAN , 
+
+https://user-images.githubusercontent.com/40158577/137016169-4d88f233-1410-4fa4-b94b-d44c19a415c1.mp4
+
+
+
+idk why it didnt worked out on codr platform :(
+
+[Gist link](https://user-images.githubusercontent.com/40158577/137016169-4d88f233-1410-4fa4-b94b-d44c19a415c1.mp4)
+
+<script src="https://gist.github.com/mayukhpankaj/f2b2f2ee9cc675ca3b5c9d8f47121b97.js"></script> 
+
+
+Thank you for reading !
