@@ -33,7 +33,9 @@ request.json['name'] , request.json['email'] , request.json['password'] gives th
 
 Working With POSTMAN , 
 
-![Demo vide0](https://user-images.githubusercontent.com/40158577/137016169-4d88f233-1410-4fa4-b94b-d44c19a415c1.mp4)
+<video width="500" height="300" controls>
+<source src="https://user-images.githubusercontent.com/40158577/137016169-4d88f233-1410-4fa4-b94b-d44c19a415c1.mp4" type="video/mp4">
+</video>
 
 
 
